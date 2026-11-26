@@ -124,7 +124,7 @@ agy plugin uninstall designcraft
 agy plugin uninstall designcraft && agy plugin install https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/designcraft
 
 # Validate every plugin in the marketplace catalog
-agy plugin validate https://github.com/jhonsu01/craft-marketplace-antigravity/blob/main/.agents/plugins/marketplace.json
+agy plugin validate --strict https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/.agents/plugins/marketplace.json
 ```
 
 ## Autres Environnements et Marketplaces

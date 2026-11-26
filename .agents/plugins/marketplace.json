@@ -10,7 +10,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/designcraft.zip",
         "sha256": "020269bc66be9a36e435f7c7dceeb2b36e26b0642391c89061a1a1ad5458988f"
       },
-      "category": "Design"
+      "category": "Design",
+      "version": "1.0.4",
+      "description": "Page layout, CSV data merge, InDesign IDML, and print-ready PDF/X-4, PNG, EPUB, and HTML using your local DesignCraft engine."
     },
     {
       "name": "effectcraft",
@@ -18,7 +20,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/effectcraft.zip",
         "sha256": "d06d720eea0df98c602f1107a515ea5792ade34799a83142df2f83f86c376de6"
       },
-      "category": "Design"
+      "category": "Design",
+      "version": "1.0.5",
+      "description": "Create motion graphics, animated titles, templates, keyframes, expressions, and VFX; render MP4, ProRes, WebM, GIF, and Lottie."
     },
     {
       "name": "lightcraft",
@@ -26,7 +30,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/lightcraft.zip",
         "sha256": "2300fa2dfb375fa727b58e76a1e9856d79489022ce36e8af5b3aff80fef545f5"
       },
-      "category": "Design"
+      "category": "Design",
+      "version": "1.0.3",
+      "description": "Develop RAW photos and batches with auto tone, 125 sliders, presets, local masks, HDR/panorama DNG merges, and sharpness culling."
     },
     {
       "name": "photocraft",
@@ -34,7 +40,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/photocraft.zip",
         "sha256": "2a1eaa1b3246bba0dd7aea810c56713ff82fff4afb301fb28591332203b79041"
       },
-      "category": "Design"
+      "category": "Design",
+      "version": "1.0.3",
+      "description": "Edit photos and layered designs: resize, crop, Camera Raw, 123 filters, background removal, text, and PSD/PNG/JPEG/WebP conversion."
     },
     {
       "name": "vectorcraft",
@@ -42,7 +50,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/vectorcraft.zip",
         "sha256": "c4309e5a51500b02b3f6e3c37ef1ebd11bcea01f6e847129d83447764993b64d"
       },
-      "category": "Design"
+      "category": "Design",
+      "version": "1.0.5",
+      "description": "Vectorize bitmaps with Image Trace, compose vector art and charts, recolor, and convert across 20 formats (SVG, PDF, AI, EPS, DXF)."
     },
     {
       "name": "pdfcraft",
@@ -50,7 +60,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/pdfcraft.zip",
         "sha256": "87563dfeb40bef353c8d94e24048ec0d42aa12bf288e5f50fb1d4fe512f9b335"
       },
-      "category": "Productivity"
+      "category": "Productivity",
+      "version": "1.0.3",
+      "description": "Merge, split, OCR, watermark, redact, fill forms, digitally sign, encrypt, compress, and convert PDFs to Word, HTML, images, and PDF/A."
     },
     {
       "name": "filmcraft",
@@ -58,7 +70,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/filmcraft.zip",
         "sha256": "f27ac0ade0c17858387463e881d9801aaf0e8e0ffc9e6a527eaabb2d79796299"
       },
-      "category": "Design"
+      "category": "Design",
+      "version": "1.1.4",
+      "description": "Split, trim, color-grade with Lumetri looks, apply 131 video effects, join clips with transitions, and export MP4, ProRes, GIF, and FCPXML."
     },
     {
       "name": "wordcraft",
@@ -66,7 +80,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/wordcraft.zip",
         "sha256": "82e12118a9558a78d22ac50aef2300552b98d4b078feaeac5ef6ba64f6e11fa8"
       },
-      "category": "Productivity"
+      "category": "Productivity",
+      "version": "1.0.1",
+      "description": "Author, edit with tracked changes and comments, mail-merge, and convert documents across DOCX, PDF, ODT, RTF, HTML, Markdown, and LaTeX."
     },
     {
       "name": "soundcraft",
@@ -74,7 +90,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/soundcraft.zip",
         "sha256": "e164583d64c74d6f9ad1dab89759ae9c8ecf006686b8b22f73fd6f6eedde9962"
       },
-      "category": "Productivity"
+      "category": "Productivity",
+      "version": "1.0.0",
+      "description": "Compose multitrack audio and MIDI synth/drum sessions, mix with 30 built-in plugins, measure LUFS loudness, and export WAV, FLAC, stems, and MIDI."
     },
     {
       "name": "deckcraft",
@@ -82,7 +100,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/deckcraft.zip",
         "sha256": "088581966ca90518319be764ba41e9457a4e38701f0aeef450ac8c1c77afa0fe"
       },
-      "category": "Productivity"
+      "category": "Productivity",
+      "version": "1.0.0",
+      "description": "Create, edit, inspect, and convert PowerPoint (.pptx) decks with themes, bullets, charts, tables, speaker notes, PDF handouts, and PNG slides."
     },
     {
       "name": "gridcraft",
@@ -90,7 +110,9 @@
         "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/gridcraft.zip",
         "sha256": "bb16f9547662aee2e9247da2eb21653a0b12a804bb493548478acdd0c103d201"
       },
-      "category": "Productivity"
+      "category": "Productivity",
+      "version": "1.0.0",
+      "description": "Build, edit, evaluate live formulas (515 Excel functions), chart, PivotTable, and convert spreadsheets across XLSX, CSV, ODS, JSON, HTML, and PDF."
     }
   ]
 }
