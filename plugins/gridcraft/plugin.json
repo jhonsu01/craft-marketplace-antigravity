@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "gridcraft",
+  "displayName": "GridCraft",
+  "version": "1.0.0",
+  "description": "Build, edit, evaluate live formulas (515 Excel functions), chart, PivotTable, and convert spreadsheets across XLSX, CSV, ODS, JSON, HTML, and PDF.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Build a monthly budget workbook with live formulas, tables, charts, and a summary sheet",
+    "Read this XLSX file and evaluate total sales by region using SUMIFS",
+    "Convert this spreadsheet workbook to CSV, HTML, and PDF"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/gridcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "gridcraft",
+    "excel",
+    "xlsx",
+    "spreadsheets",
+    "formulas",
+    "csv",
+    "pivottable"
+  ]
+}

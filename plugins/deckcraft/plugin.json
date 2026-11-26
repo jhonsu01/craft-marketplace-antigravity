@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "deckcraft",
+  "displayName": "DeckCraft",
+  "version": "1.0.0",
+  "description": "Create, edit, inspect, and convert PowerPoint (.pptx) decks with themes, bullets, charts, tables, speaker notes, PDF handouts, and PNG slides.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Make a 6-slide executive pitch deck with a column chart and regional table as PPTX and PDF",
+    "Replace the company name across this presentation, switch to the Harbor theme, and add slide numbers",
+    "Export this PowerPoint deck as 3-per-page speaker handouts PDF and one PNG per slide"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/deckcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "deckcraft",
+    "powerpoint",
+    "pptx",
+    "presentations",
+    "slides",
+    "charts",
+    "handouts"
+  ]
+}

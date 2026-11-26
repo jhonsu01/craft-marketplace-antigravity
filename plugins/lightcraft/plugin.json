@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "lightcraft",
+  "displayName": "LightCraft",
+  "version": "1.0.3",
+  "description": "Develop RAW photos and batches with auto tone, 125 sliders, presets, local masks, HDR/panorama DNG merges, and sharpness culling.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Develop every RAW photo in this folder with auto tone, daylight white balance, and export 2048 px JPEGs",
+    "Merge these bracketed exposures into an HDR DNG and export a 16-bit TIFF",
+    "Cull this burst of photos by sharpness and copy only the sharpest selects to a new folder"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/lightcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "lightcraft",
+    "raw",
+    "dng",
+    "photo-editing",
+    "hdr",
+    "panorama",
+    "presets",
+    "culling"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "filmcraft",
+  "displayName": "FilmCraft",
+  "version": "1.1.4",
+  "description": "Split, trim, color-grade with Lumetri looks, apply 131 video effects, join clips with transitions, and export MP4, ProRes, GIF, and FCPXML.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Join these video clips with 0.5s cross-dissolve transitions and export 1080p MP4",
+    "Trim this video from 00:05 to 00:35, apply a warm cinematic look, and save MP4 plus FCPXML",
+    "Extract WAV audio and render preview frames from this video"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/filmcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "filmcraft",
+    "video-editing",
+    "mp4",
+    "prores",
+    "fcpxml",
+    "otio",
+    "transitions"
+  ]
+}

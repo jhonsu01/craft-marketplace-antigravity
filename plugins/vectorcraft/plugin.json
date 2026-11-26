@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "vectorcraft",
+  "displayName": "VectorCraft",
+  "version": "1.0.5",
+  "description": "Vectorize bitmaps with Image Trace, compose vector art and charts, recolor, and convert across 20 formats (SVG, PDF, AI, EPS, DXF).",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Vectorize this PNG logo into clean SVG and PDF files",
+    "Convert these AI and EPS files to SVG and DXF",
+    "Create a vector infographic with bar charts, rounded cards, and styled text"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/vectorcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "vectorcraft",
+    "svg",
+    "vectorize",
+    "image-trace",
+    "illustrator",
+    "eps",
+    "dxf"
+  ]
+}

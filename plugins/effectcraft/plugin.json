@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "effectcraft",
+  "displayName": "EffectCraft",
+  "version": "1.0.5",
+  "description": "Create motion graphics, animated titles, templates, keyframes, expressions, and VFX; render MP4, ProRes, WebM, GIF, and Lottie.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Make a 5-second animated intro with a glowing typewriter title and pulsing background",
+    "Add an animated lower third with name and role over this video",
+    "Render this .ecproj composition as MP4, GIF, and Lottie"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/effectcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "effectcraft",
+    "motion-graphics",
+    "vfx",
+    "lottie",
+    "animation",
+    "prores",
+    "templates"
+  ]
+}

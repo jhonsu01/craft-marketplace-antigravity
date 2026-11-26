@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "wordcraft",
+  "displayName": "WordCraft",
+  "version": "1.0.1",
+  "description": "Author, edit with tracked changes and comments, mail-merge, and convert documents across DOCX, PDF, ODT, RTF, HTML, Markdown, and LaTeX.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Create a quarterly executive report with a table of contents, metrics table, and headings as DOCX and PDF",
+    "Replace company names across this contract with tracked changes and review comments",
+    "Convert this Markdown specification into styled DOCX and PDF documents"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/wordcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "wordcraft",
+    "docx",
+    "word",
+    "documents",
+    "mail-merge",
+    "track-changes",
+    "latex",
+    "markdown"
+  ]
+}

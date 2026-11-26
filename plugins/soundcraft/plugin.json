@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "soundcraft",
+  "displayName": "SoundCraft",
+  "version": "1.0.0",
+  "description": "Compose multitrack audio and MIDI synth/drum sessions, mix with 30 built-in plugins, measure LUFS loudness, and export WAV, FLAC, stems, and MIDI.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Make an 8-bar synthwave drum and bass groove at 112 BPM in A minor and export WAV, stems, and MIDI",
+    "Mix voice and music into a podcast intro with EQ, compression, fades, and LUFS measurement",
+    "Normalize every recording in this folder to -1 dBFS and convert to 24-bit FLAC"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/soundcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "soundcraft",
+    "daw",
+    "audio",
+    "midi",
+    "multitrack",
+    "stems",
+    "lufs",
+    "flac"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "pdfcraft",
+  "displayName": "PdfCraft",
+  "version": "1.0.3",
+  "description": "Merge, split, OCR, watermark, redact, fill forms, digitally sign, encrypt, compress, and convert PDFs to Word, HTML, images, and PDF/A.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Merge these PDFs and add page numbers and a confidential watermark",
+    "Run OCR on this scanned PDF and convert it to an editable Word DOCX",
+    "Redact all emails and phone numbers in this contract PDF"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/pdfcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "pdfcraft",
+    "pdf",
+    "ocr",
+    "redact",
+    "watermark",
+    "forms",
+    "pdf-a",
+    "docx"
+  ]
+}

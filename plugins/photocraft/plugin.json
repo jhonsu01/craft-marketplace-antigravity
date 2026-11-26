@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "photocraft",
+  "displayName": "PhotoCraft",
+  "version": "1.0.3",
+  "description": "Edit photos and layered designs: resize, crop, Camera Raw, 123 filters, background removal, text, and PSD/PNG/JPEG/WebP conversion.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Remove the background from this product photo and export a trimmed transparent PNG",
+    "Create a 1200x630 social banner with gradient background, rounded card, and drop-shadow title as PNG and PSD",
+    "Batch-enhance every photo in this folder with Camera Raw vibrance and export WebP"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/photocraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "photocraft",
+    "photo-editing",
+    "psd",
+    "background-removal",
+    "filters",
+    "layers",
+    "webp"
+  ]
+}

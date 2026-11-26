@@ -1,0 +1,85 @@
+{
+  "name": "craft-antigravity",
+  "interface": {
+    "displayName": "Craft Suite for Antigravity"
+  },
+  "plugins": [
+    {
+      "name": "designcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/designcraft"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "effectcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/effectcraft"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "lightcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/lightcraft"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "photocraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/photocraft"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "vectorcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/vectorcraft"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "pdfcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/pdfcraft"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "filmcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/filmcraft"
+      },
+      "category": "Design"
+    },
+    {
+      "name": "wordcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/wordcraft"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "soundcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/soundcraft"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "deckcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/deckcraft"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "gridcraft",
+      "source": {
+        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/gridcraft"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

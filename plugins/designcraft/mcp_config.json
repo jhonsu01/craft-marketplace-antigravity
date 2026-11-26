@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "designcraft_mcp": {
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/dist/bundle.cjs"
+      ]
+    }
+  }
+}

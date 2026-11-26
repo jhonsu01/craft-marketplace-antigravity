@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "designcraft",
+  "displayName": "DesignCraft",
+  "version": "1.0.4",
+  "description": "Page layout, CSV data merge, InDesign IDML, and print-ready PDF/X-4, PNG, EPUB, and HTML using your local DesignCraft engine.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Make a two-page A5 brochure as a print-ready PDF/X-4 with 3 mm bleed and crop marks",
+    "Create VIP event badges for every person in a CSV with photo, name, and role",
+    "Inspect this InDesign .idml file for missing fonts and links, then export to EPUB and PDF"
+  ],
+  "author": {
+    "name": "Jhon Supelano",
+    "url": "https://github.com/jhonsu01"
+  },
+  "homepage": "https://github.com/jhonsu01/craft-marketplace-antigravity",
+  "repository": "https://github.com/jhonsu01/designcraft-mcp-server",
+  "license": "Apache-2.0",
+  "keywords": [
+    "designcraft",
+    "indesign",
+    "idml",
+    "desktop-publishing",
+    "layout",
+    "pdf-x",
+    "data-merge",
+    "epub"
+  ]
+}
