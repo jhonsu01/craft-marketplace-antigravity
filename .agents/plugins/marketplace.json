@@ -7,77 +7,88 @@
     {
       "name": "designcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/designcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/designcraft.zip",
+        "sha256": "020269bc66be9a36e435f7c7dceeb2b36e26b0642391c89061a1a1ad5458988f"
       },
       "category": "Design"
     },
     {
       "name": "effectcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/effectcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/effectcraft.zip",
+        "sha256": "d06d720eea0df98c602f1107a515ea5792ade34799a83142df2f83f86c376de6"
       },
       "category": "Design"
     },
     {
       "name": "lightcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/lightcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/lightcraft.zip",
+        "sha256": "2300fa2dfb375fa727b58e76a1e9856d79489022ce36e8af5b3aff80fef545f5"
       },
       "category": "Design"
     },
     {
       "name": "photocraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/photocraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/photocraft.zip",
+        "sha256": "2a1eaa1b3246bba0dd7aea810c56713ff82fff4afb301fb28591332203b79041"
       },
       "category": "Design"
     },
     {
       "name": "vectorcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/vectorcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/vectorcraft.zip",
+        "sha256": "c4309e5a51500b02b3f6e3c37ef1ebd11bcea01f6e847129d83447764993b64d"
       },
       "category": "Design"
     },
     {
       "name": "pdfcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/pdfcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/pdfcraft.zip",
+        "sha256": "87563dfeb40bef353c8d94e24048ec0d42aa12bf288e5f50fb1d4fe512f9b335"
       },
       "category": "Productivity"
     },
     {
       "name": "filmcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/filmcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/filmcraft.zip",
+        "sha256": "f27ac0ade0c17858387463e881d9801aaf0e8e0ffc9e6a527eaabb2d79796299"
       },
       "category": "Design"
     },
     {
       "name": "wordcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/wordcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/wordcraft.zip",
+        "sha256": "82e12118a9558a78d22ac50aef2300552b98d4b078feaeac5ef6ba64f6e11fa8"
       },
       "category": "Productivity"
     },
     {
       "name": "soundcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/soundcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/soundcraft.zip",
+        "sha256": "e164583d64c74d6f9ad1dab89759ae9c8ecf006686b8b22f73fd6f6eedde9962"
       },
       "category": "Productivity"
     },
     {
       "name": "deckcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/deckcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/deckcraft.zip",
+        "sha256": "088581966ca90518319be764ba41e9457a4e38701f0aeef450ac8c1c77afa0fe"
       },
       "category": "Productivity"
     },
     {
       "name": "gridcraft",
       "source": {
-        "url": "https://github.com/jhonsu01/craft-marketplace-antigravity/tree/main/plugins/gridcraft"
+        "url": "https://raw.githubusercontent.com/jhonsu01/craft-marketplace-antigravity/main/bundles/gridcraft.zip",
+        "sha256": "bb16f9547662aee2e9247da2eb21653a0b12a804bb493548478acdd0c103d201"
       },
       "category": "Productivity"
     }
